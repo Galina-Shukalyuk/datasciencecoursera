@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-It's tof the assignment
+It's for the assignment
